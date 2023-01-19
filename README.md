@@ -113,8 +113,8 @@ __________
 
 __Max Belov__
 
-[Github](https://github.com/maxsause)
+> [Github](https://github.com/maxsause)
 
-Discord: __max_and#8147__
+> Discord: __max_and#8147__
 
-Telegram: __@maxsause__
+> Telegram: __@maxsause__
